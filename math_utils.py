@@ -1,8 +1,8 @@
 def find_max_number(num1, num2, num3):
-    # Complete this line to find the maximum number
+    return max(num1, num2, num3)# Complete this line to find the maximum number
 
 def find_mean(num1, num2, num3):
-    return # Fill in this line to calculate the mean
+    return (num1 + num2 + num3)/3# Fill in this line to calculate the mean
 
 def find_mean_std(num1, num2, num3):
     mean = find_mean(num1, num2, num3)
