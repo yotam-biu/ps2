@@ -1,5 +1,6 @@
 def find_max_number(num1, num2, num3):
     # you need to write this function
+    return num3
 
 def find_mean(num1):
     return  num1 + 1 # You should fill in this line!
