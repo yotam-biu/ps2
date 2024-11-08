@@ -1,6 +1,6 @@
 from math_utils import find_max_number
 
-def test_find():
+def test_max():
     assert find_max_number(1,2,3) == 3
     assert find_max_number(3,1,2) == 3
     assert find_max_number(2,3,1) == 3
