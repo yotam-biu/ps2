@@ -18,21 +18,21 @@ jobs:
       uses: classroom-resources/autograding-python-grader@v1
       with:
         timeout: 10
-        max-score: 5
+        max-score: 4
         setup-command: ''
     - name: ".tests/mean_test.py"
       id: tests-mean-test-py
       uses: classroom-resources/autograding-python-grader@v1
       with:
         timeout: 10
-        max-score: 5
+        max-score: 4
         setup-command: ''
     - name: ".tests/meanstd_test.py"
       id: tests-meanstd-test-py
       uses: classroom-resources/autograding-python-grader@v1
       with:
         timeout: 10
-        max-score: 5
+        max-score: 3
         setup-command: ''
     - name: Autograding Reporter
       uses: classroom-resources/autograding-grading-reporter@v1
