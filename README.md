@@ -14,6 +14,7 @@ This assignment introduces basic statistics through Python functions. You will c
 2. Follow the instructions for each part of the assignment:
     - **Part 1: Find the Maximum Number**  
       Create a function `find_max_number` that takes three numbers as input and returns the maximum value.
+      Use if and else statements to compare the three numbers and return the maximum value.
     - **Part 2: Mean Calculation**  
       Create a function `find_mean` that takes three numbers as input and returns the mean. Remember to use \( n = 3 \) in the formula.
     - **Part 3: Standard Deviation Calculation**  
