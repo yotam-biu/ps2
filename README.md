@@ -27,6 +27,5 @@ This assignment introduces basic statistics through Python functions. You will c
    Once each function works as expected, copy it into `math_utils.py` in the same format.
 
 5. **GitHub Submission**:  
-   - Make sure all code is working.
-   - Push your changes to GitHub. Verify that `math_utils.py` contains your functions and that all code passes the provided tests.
+   Commit your changes in GitHub. Verify that `math_utils.py` contains your functions and that all code passes the provided tests.
 
